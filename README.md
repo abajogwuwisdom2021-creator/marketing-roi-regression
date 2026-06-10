@@ -13,4 +13,4 @@ pip install pandas numpy matplotlib seaborn statsmodels scipy
 ## Executive Summary of Findings
 * **Top Channel:** TV advertising shows a near-perfect correlation of **0.9995** to Sales.
 * **Model Accuracy:** An **R-squared of 0.999** confirms that 99.9% of sales variance is driven explicitly by TV spend.
-* **ROI Impact:** Every additional **$1** spent on TV advertising  yields an average increase of **$3,56.** in Sales revenue(or approximately **3,561,411** for  every additional $1 Million invested).s
+* **ROI Impact:** Every additional **$1** spent on TV advertising  yields an average increase of **$3.56** in Sales revenue(or approximately **3,561,411** for  every additional $1 Million invested)
